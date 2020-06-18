@@ -1,2 +1,1 @@
-# pizar
-My First Thinkful Commit.
+# pizza
